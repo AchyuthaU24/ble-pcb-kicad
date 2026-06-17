@@ -5,7 +5,7 @@ BLE module PCB designed in KiCad - schematic, layout and BOM
 A custom BLE module PCB designed from scratch in KiCad 10.
 
 ## Overview
-[1–2 lines on what your BLE board does]
+[Power section: LN2985S-3.3 buck regulator converting a 9V input to a stable 3.3V rail. Sized the inductor (47µH) and output capacitor (330µF) to meet ripple requirements, and placed an SB120 Schottky diode for reverse-current protection and efficiency.]
 
 ## Schematic
 
@@ -17,7 +17,7 @@ A custom BLE module PCB designed from scratch in KiCad 10.
 ## PCB 3D View
 
 
-![PCB](ble-3ddesign.png)
+![PCB](ble-3d design.png)
 
 
 
