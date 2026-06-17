@@ -17,7 +17,7 @@ A custom BLE module PCB designed from scratch in KiCad 10.
 ## PCB 3D View
 
 
-![PCB](ble-3d_design.png)
+![PCB](ble_3d_design.png)
 
 
 
