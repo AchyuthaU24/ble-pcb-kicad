@@ -5,7 +5,9 @@ BLE module PCB designed in KiCad - schematic, layout and BOM
 A custom BLE module PCB designed from scratch in KiCad 10.
 
 ## Overview
-[Power section: LN2985S-3.3 buck regulator converting a 9V input to a stable 3.3V rail. Sized the inductor (47µH) and output capacitor (330µF) to meet ripple requirements, and placed an SB120 Schottky diode for reverse-current protection and efficiency.]
+Designed a custom 2-layer IoT sensor PCB in KiCad 10 using the ESP32-C3-WROOM-02, featuring onboard power regulation, RF-compliant layout, and reliable boot/reset circuitry.
+
+Validated the design through ERC, DRC, and 3D mechanical checks, producing fabrication-ready Gerber files for low-power wireless sensing applications.
 
 ## Schematic
 
