@@ -34,6 +34,7 @@ Validated the design through ERC, DRC, and 3D mechanical checks, producing fabri
 - [ESP32-C3-WROOM-02 — Main microcontroller and wireless communication module
 
 LM2985S-3.3  — Power regulation from 9V to 3.3V
+
 SB120 Schottky Diode — Reverse-current protection and improved efficiency]
 
 ## Author
